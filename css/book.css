@@ -1,0 +1,17 @@
+
+			.grid {
+				grid-gap: 1em;
+				margin: 0 0 2em 0;
+
+			}
+            .nice-image { width:100%;
+            height:inherit}
+			.grid div {
+				background-color: ghostwhite;
+			}
+            .book { margin-top: 2em;}
+            .book h2 {font-family: 'Poppins'; font-weight: 900; font-size: 2.5em; margin-left: 1em}
+            .book-nav { text-align: center}
+            .book-nav a {background-color: transparent}
+            .credits { margin-left: 1em}
+            .arrow img { width: 50%}
